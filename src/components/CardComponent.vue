@@ -15,7 +15,7 @@ import { TheCard } from 'flowbite-vue'
   <div class="grid grid-cols-4 gap-4" >
       <div  class="mx-8 my-8"> 
         
-        <the-card variant="image" img-src="./src/assets/images/tskids.jpg" img-alt="Desk">
+        <the-card variant="image" img-src="../src/assets/images/tskids.jpg" img-alt="Desk">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Fear of God Essentials Kids T-Shirt Amber</h5>
         <p class="font-normal text-gray-700 dark:text-gray-400">
           Authentic. Guaranteed.
